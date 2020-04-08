@@ -55,4 +55,4 @@ def add_characters
          ]
       }
    }
-end 
+end
