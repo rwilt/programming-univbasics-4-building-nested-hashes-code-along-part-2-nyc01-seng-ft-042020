@@ -26,10 +26,6 @@ end
 
 
 
-
-  # After your code, the following code will return the altered hash. This method must only return the modified epic_tragedy hash
-
-
 def add_characters
    epic_tragedy = {
       :montague => {
@@ -53,6 +49,4 @@ def add_characters
    }
 
    epic_tragedy[:additional_characters] = [{:name => "Prince Escalus"}, {"Apothecary"}]
-
-
 end
